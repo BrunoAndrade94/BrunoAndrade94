@@ -1,8 +1,8 @@
 # 👋 Hello, sou o Bruno Andrade Almeida !!!
 
 - 🚀 **Analista de Formacação**, que semprea amou a tecnologia e hoje busca uma oportunidade na carreira para atuar como Engenheiro de Software.
-- 💻 **Tecnologias Favoritas**: Java | JavaScript | TypeScript | AWS
-- 🌐 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/BrunoAndrade94) ou pelo email: [brunozl@hotmail.fr](mailto:brunozl@hotmail.fr)
+- 💻 **Tecnologias Favoritas**: Java | JavaScript | TypeScript | AWS | RegeX | IA
+- 🌐 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/bruno-a-almeida) ou pelo email: [brunozl@hotmail.fr](mailto:brunozl@hotmail.fr)
 
 ---
 
