@@ -6,11 +6,11 @@
 
 ---
 
-### 📊 Meu GitHub
-![BrunoAndrade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAndrade94&show_icons=true&theme=radical)
+### 📊 Meu GitHub 
+![BrunoAndrade's GitHub Status](https://github-readme-stats.vercel.app/api?username=BrunoAndrade94&show_icons=true&theme=radical)
 
-### 🚀 Tecnologias Ultimamente mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAndrade94&layout=compact&theme=radial)
+### 🚀 Tecnologias mais Usadas Ultimamente
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaLima&layout=compact&theme=radical)
 
 ---
 
