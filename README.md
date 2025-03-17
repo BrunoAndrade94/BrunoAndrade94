@@ -1,4 +1,4 @@
-# 👋 Hello, sou o Bruno Andrade Almeida !!!
+# 👋 Olá, sou o Bruno Andrade Almeida !!!
 
 - 🚀 **Analista de Formacação**, que sempre amou a tecnologia e hoje busca uma oportunidade na carreira para atuar como Engenheiro de Software.
 - 💻 **Tecnologias Favoritas**: Java | JavaScript | TypeScript | AWS | RegeX | IA
